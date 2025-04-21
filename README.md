@@ -37,7 +37,9 @@ pip install -r requirements.txt
 2.运行程序：
 
 运行 detect_fps.py 脚本：
-
+```bash
+python detect_fps.py
+```
 这将启动摄像头并使用 YOLOv5 检测物体，同时在画面上显示 FPS（帧率）值。
 
 3.退出程序：
